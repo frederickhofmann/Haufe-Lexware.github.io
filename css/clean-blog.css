@@ -719,3 +719,11 @@ a.button.active {
   background-color: #005DA5;
   border: 1px solid #005DA5;
 }
+
+.career-ad {
+    background-color: #03a9f4;
+    color: white;
+    text-align: center;
+    padding: 20px 2000px;
+    margin: 50px -2000px;
+}
