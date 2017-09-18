@@ -724,6 +724,6 @@ a.button.active {
     background-color: #03a9f4;
     color: white;
     text-align: center;
-    padding: 20px 2000px;
-    margin: 50px -2000px;
+    padding: 20px 0;
+    margin: 50px auto;
 }
